@@ -1,0 +1,14 @@
+It's my 3rd day journey being recorded.
+Today I have learned what modules and pip and how to install modules using pip.
+Summary: As you know that i am following #100daysofcoding
+and i am following codewithharry #100daysofpython and today
+i have learned what is pip and what is module i have learned that there are 2 types of module .
+built in modules that are built in modules available in the language
+whereas external modules are those modules that are built by others and are available to be installed
+and used by the developer. We can create our own module which we can also say are external modules.
+And where as pip is the package manager of python which we use to install packages and modules in the python.
+
+I've also included links to some of the resources I used if anybody interested can follow along.
+https://youtu.be/xwKO_y2gHxQ?si=Qq6yFZK2YAz7xeXo
+https://www.w3schools.com/python/python_pip.asp
+https://www.w3schools.com/python/python_modules.asp
