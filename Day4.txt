@@ -1,0 +1,12 @@
+It's my 4th day journey being recorded.
+Today I have learned how to write my python hellow world program it was fun and interesting.
+Summary: As you know that i am following #100daysofcoding
+and i am following codewithharry #100daysofpython and today
+i have learned how to use the print() function in python and i found out that text needs double quotation "" 
+and numbers doesn't need any type of quotation . 
+
+I've also included links to some of the resources I used if anybody interested can follow along.
+https://youtu.be/7IWOYhfAcVg?si=sZ1C4AGJj-bUSAK3
+https://www.w3schools.com/python/python_getstarted.asp#:~:text=Python%20Quickstart&text=print(%22Hello%2C%20World!%22)&text=The%20output%20should%20read%3A,executed%20your%20first%20Python%20program.
+
+You can follow my journey on my facebook account also : https://www.facebook.com/aasishsapkota2059/
