@@ -6,3 +6,5 @@ a=5
 b=49
 c=a+b
 print(c)
+num=(a+b)/c
+print(num)
