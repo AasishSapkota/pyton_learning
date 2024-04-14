@@ -1,0 +1,20 @@
+It's my 5th day journey being recorded.
+Today I have learned  how to use comment , escape sequence ,
+and some feature of print() statement some features.
+I found out  that there are two types of comment in python:
+   Single line comment
+   Multi line comment
+In single line comment we use # to comment things that are on same line after 
+# this will be commented
+
+In multiple line we use 3 quotation to open comment and 3 quotation for closing comment
+‘’’It will be commented ‘’’
+
+And i learned about 'sep' also known as separator that is used in print statement to add user intended separator.
+and i have learned about end escapes to like \n is used for line seperation
+
+Here are some link of content and resource that i have used if needed you can use it :
+https://youtu.be/qxPMmW93eDs?si=BXq6cSb9iRIWBAtY
+https://www.w3schools.com/python/python_strings_escape.asp#:~:text=To%20insert%20characters%20that%20are,character%20you%20want%20to%20insert.
+
+You can follow my journey on my facebook account also : https://www.facebook.com/aasishsapkota2059/
