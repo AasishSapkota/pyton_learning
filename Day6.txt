@@ -1,0 +1,23 @@
+It's my 6th day journey being recorded.
+Today i have learned about variable and different type of data types in python
+first i've learned that a variable is a container that has unique name and it stores different type of values in it the name of variable is called identifier.
+Identifier points to the memory address where the data is stored.
+There are many types of data type some of the basic data types are:
+1.Integer
+2.String
+3.Boolean
+4.List
+5.Tuples
+6.Dictionary
+Integer,boolean and string are basic data types .
+List is a collection of different types of data which is mutable
+Tuples is also collection but it stores single type of data and it is non mutable
+Dictionary(dict) in other hand i also a collection of data in the form of Key:value it is mutable.
+
+Here are some link of content and resource that i have used if needed you can use it :
+https://youtu.be/ORCuz7s5cCY?si=fNJuaLL-aCj_44eI
+https://www.w3schools.com/python/python_lists.asp
+https://www.w3schools.com/python/python_tuples.asp
+https://www.w3schools.com/python/python_dictionaries.asp
+
+You can follow my journey on my facebook account also : https://www.facebook.com/aasishsapkota2059/
